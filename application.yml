@@ -1,5 +1,5 @@
 spring:
-  appplication:
+  application:
     name: TEST-CONFIG
 eureka:
   client:
