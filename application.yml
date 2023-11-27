@@ -1,3 +1,6 @@
+spring:
+  appplication:
+    name: TEST-CONFIG
 eureka:
   client:
     register-with-eureka: true
